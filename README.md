@@ -1,1 +1,1 @@
-[![Bruno15987 | V1](https://img.shields.io/badge/Bruno15987-V1-blue?logo=github&logoColor=white)](https://github.com/Bruno15987)
+[![BRYX-BOT V1](https://img.shields.io/badge/BRYX--BOT-V1-blue?logo=github&logoColor=white)](https://github.com/Bruno15987)
